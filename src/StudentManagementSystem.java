@@ -29,7 +29,6 @@ class student {
         System.out.println("ID: " + id);
         System.out.println("Name: " + name);
         System.out.println("Marks: " + marks);
-        System.out.println("----------------------");
     }
 }
 public class StudentManagementSystem {
