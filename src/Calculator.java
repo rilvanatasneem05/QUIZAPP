@@ -67,7 +67,8 @@ public class Calculator {
             {
                 System.out.println("Thank you!");
             }
-            else {
+            else
+            {
                 System.out.println("Invalid choice! Please try again.");
             }
 
