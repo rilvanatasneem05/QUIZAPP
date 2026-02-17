@@ -5,3 +5,6 @@ qq
 6
 WW
 UUUU
+hii how are you
+this my nxt project
+In this project i create noteapp for read and write files
