@@ -69,7 +69,8 @@ public class bankapp {
 
         int choice = 0;
 
-        while (choice != 5) {
+        while (choice != 5)
+        {
             System.out.println("\nBANK MENU");
             System.out.println("1. Deposit");
             System.out.println("2. Withdraw");
