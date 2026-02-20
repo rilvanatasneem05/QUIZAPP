@@ -2,7 +2,8 @@ import javax.swing.*;
 
 public class DoToList {
 
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
 
         JFrame frame = new JFrame("Simple ToDo App");
         frame.setSize(350, 400);
