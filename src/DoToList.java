@@ -14,7 +14,7 @@ public class DoToList {
         taskField.setBounds(20, 20, 200, 30);
         frame.add(taskField);
 
-        //create button
+        //create  button
         JButton addButton = new JButton("Add");
         addButton.setBounds(230, 20, 80, 30);
         frame.add(addButton);
